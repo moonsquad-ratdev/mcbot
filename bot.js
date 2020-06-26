@@ -175,9 +175,6 @@ if(message.author.bot || message.channel.type == "dm" || !message.content.starts
         message.reply("?");
 
     }
-
-    if(message.content.toLowerCase().startsWith(".!.")){
-
     	
 
      if(message.content.toLowerCase().startsWith(".!.spamm")){
