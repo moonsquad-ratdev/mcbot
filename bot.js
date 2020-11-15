@@ -1,3 +1,4 @@
+throw(Error("Bot is outdated"))
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 const botconfig = require("./botconfig.json")
